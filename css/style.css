@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Nunito', sans-serif;
+    max-width: 800px;
+    margin: auto;
+    background-color: #d5ebe1;
+    color: #11221a;
+}
